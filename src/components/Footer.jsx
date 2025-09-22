@@ -91,6 +91,7 @@ const Footer = ({ theme }) => {
           <img src={assets.twitter_icon} alt="" />
           <img src={assets.instagram_icon} alt="" />
           <img src={assets.linkedin_icon} alt="" />
+          {/* this is the footer part */}
         </div>
       </motion.div>
     </motion.div>
