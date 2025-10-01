@@ -56,6 +56,7 @@ const Services = () => {
           <ServiceCard key={index} service={service} index={index} />
         ))}
       </div>
+      {/* This one is the final part . */}
     </motion.div>
   );
 };
